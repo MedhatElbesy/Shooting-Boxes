@@ -71,4 +71,4 @@ Modify the `enemySpeed`, `timeInMinutes`, `shipSpeed`, and `winScore` properties
 
 Special thanks to the developers and contributors who provided inspiration and resources for creating this game.
 
-Enjoy the Shooting Boxes Game! If you have any questions or feedback, feel free to contact us: khaledabdelbaset98@gmail.com
+
