@@ -9,7 +9,7 @@ To play the game, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/khaled-abdelbaset/Shooting-Boxes.git
+    git clone https://github.com/MedhatElbesy/Shooting-Boxes.git
     ```
 
 2. Open the project folder:
